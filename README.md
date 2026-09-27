@@ -446,7 +446,7 @@ EMBEDDING_MODEL=text-embedding-3-small
 CHROMA_PERSIST_DIRECTORY=./chroma_db
 CHROMA_COLLECTION_NAME=shopstream_knowledge
 
-SQLITE_DB_PATH=./data/shopstream.db
+SQLITE_DB_PATH=./db/shopstream.db
 ```
 
 Never commit your real API key.
