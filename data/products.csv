@@ -1,0 +1,13 @@
+product_id,product_name,category,price,stock,returnable
+P1001,Wireless Bluetooth Headphones,Electronics,2499,42,true
+P1002,Mechanical Gaming Keyboard,Electronics,4599,18,true
+P1003,USB-C Fast Charger,Accessories,1299,75,true
+P1004,Stainless Steel Water Bottle,Home,899,120,true
+P1005,Ergonomic Office Chair,Furniture,12499,9,true
+P1006,Laptop Stand,Accessories,1599,35,true
+P1007,Smart LED Desk Lamp,Home,2199,27,true
+P1008,Noise Cancelling Earbuds,Electronics,5999,14,true
+P1009,Leather Laptop Bag,Accessories,3299,22,true
+P1010,Portable Power Bank,Electronics,1899,51,true
+P1011,Personalized Photo Frame,Home,799,30,false
+P1012,USB Gaming Mouse,Electronics,1799,64,true

@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What should I do if my payment was successful but my order was not created?",
+        "answer": "Wait a few minutes and check the order history. If the order is still missing but the amount was deducted, contact ShopStream support with the payment transaction details."
+    },
+    {
+        "question": "What happens if my payment fails?",
+        "answer": "If a payment fails, the order is normally not created. Customers can retry the payment using an available payment method."
+    },
+    {
+        "question": "How long does a refund take after approval?",
+        "answer": "Approved refunds are normally credited to the original payment method within 5 to 7 business days. The actual time may depend on the bank or payment provider."
+    },
+    {
+        "question": "Can I change my payment method after placing an order?",
+        "answer": "Customers generally cannot change the payment method after an order has been placed. Contact ShopStream support if there is a payment-related issue."
+    },
+    {
+        "question": "What should I do if I was charged twice for the same order?",
+        "answer": "Check the order history and payment statement first. If two successful charges exist for the same order, contact ShopStream support with both transaction references."
+    },
+    {
+        "question": "Which payment methods are supported?",
+        "answer": "ShopStream supports common online payment methods such as cards, UPI, and supported digital payment providers. Available methods may vary during checkout."
+    }
+]

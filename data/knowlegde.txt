@@ -1,0 +1,19 @@
+ShopStream India Customer Support Knowledge Base
+
+Orders:
+Customers can cancel an order before it is shipped.
+Once an order has been shipped, cancellation is generally unavailable.
+Customers can track shipped orders using their order ID.
+
+Refunds:
+Refunds are processed after the returned product is received and inspected.
+Approved refunds usually take 5 to 7 business days to appear in the customer's original payment method.
+
+Damaged Products:
+Customers who receive a damaged product should report the issue within 48 hours of delivery.
+Customers should provide photographs of the damaged product and packaging.
+The support team may offer a replacement or refund depending on the case.
+
+Payments:
+If a payment succeeds but the order is not created, customers should wait a few minutes and check their order history.
+If the amount was deducted but no order exists, the payment team should investigate the transaction.
